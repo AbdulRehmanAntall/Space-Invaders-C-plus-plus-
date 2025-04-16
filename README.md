@@ -1,10 +1,9 @@
 # Space-Invaders-C-plus-plus-
 Space Invaders is a console-based shooting game where you control a spaceship, eliminate waves of descending aliens, and protect Earth. Use arrow keys to move and Shift to shoot. Choose difficulty levels, save progress, and compete for high scores. Fast-paced, fun, and challenging!
-# Space Invaders - Programming Fundamentals Final Project
 
 ## 🧑‍💻 Developed By:
-- Abdul Rehman Antall (23L-0605)  
-- Khadija Fatima (23L-0976)  
+- Abdul Rehman Antall  
+- Khadija Fatima
 
 ---
 
